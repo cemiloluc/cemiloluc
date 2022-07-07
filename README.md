@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/101816789/177770710-442be2e3-2498-468f-978c-eb70f05af980.gif" width="500" height="420" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/101816789/177770710-442be2e3-2498-468f-978c-eb70f05af980.gif" width="600" height="320" />
 
 ## I'm a Student 👨‍🎓, Full Stack Automation Engineer 🚀!
 - 🌱 I’m currently learning 
