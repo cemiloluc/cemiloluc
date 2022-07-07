@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://weheartit.com/elianasalazar100/collections/142033625-gifs" width="400" height="220" />
+<img align="right" alt="GIF" src="https://github.com/weheartit.com/elianasalazar100/collections/142033625-gifs" width="400" height="220" />
 
 ## I'm a Student 👨‍🎓, Full Stack Automation Engineer 🚀!
 - 🌱 I’m currently learning 
