@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning 
 - 🥅 2022 Goals: To test an app to be heard in the world 🌎
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play football ⚽ and cycling 🚴‍♀️
-![original](https://user-images.githubusercontent.com/101816789/177770710-442be2e3-2498-468f-978c-eb70f05af980.gif)
+
 
 <br />
 
