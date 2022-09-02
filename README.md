@@ -17,7 +17,7 @@
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/cemil-oluç-173341244/
+[linkedin]: https://www.linkedin.com/in/cemil-oluç
 [gmail]: mailto:cemiloluc21@gmail.com
 
 <br />
